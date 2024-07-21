@@ -1,0 +1,30 @@
+$backgroundColor:#212529;
+
+.o_main_navbar{
+    background-color: $backgroundColor!important;
+}
+
+.o_kanban_view.o_kanban_dashboard .o_kanban_record {
+    border-radius: 20px;
+}
+
+.o_control_panel{
+    background-color: $backgroundColor;
+}
+
+.o_form_statusbar{
+    background-color: $backgroundColor!important;
+}
+
+.o_setting_search{
+    text-align: center;
+}
+
+.breadcrumb{
+    background-color: $backgroundColor!important;
+}
+
+.o_searchview .o_searchview_input {
+    background-color: $backgroundColor;
+    color: white;
+}
